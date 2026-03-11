@@ -1,23 +1,17 @@
-# Customer Churn Analysis Dashboard
+# Data Analytics & Business Analyst Portfolio
 
-## Project Overview
-This project analyzes telecom customer churn patterns using Excel and Power BI.
+This repository contains analytics projects demonstrating skills in Excel, SQL, and Power BI.
 
-## Tools Used
-- Excel (Data Cleaning & Pivot Analysis)
-- Power BI (Dashboard & Visualization)
+## Projects
 
-## Key Insights
-- Customers with tenure 0–12 months show the highest churn (~47%)
-- Month-to-month contracts have the highest churn risk (~42%)
-- Fiber optic customers show higher churn compared to DSL users
-- High monthly charge segments contribute the largest churn volume
+### 1. Telecom Customer Churn Analysis
+Tools: Excel, Power BI  
+Analyzed churn patterns and built an interactive dashboard identifying high-risk customer segments.
 
-<img width="1325" height="755" alt="image" src="https://github.com/user-attachments/assets/81976cf5-eeba-4b18-899e-75599e61b3df" />
+### 2. Sales Performance Dashboard
+Tools: Power BI  
+Analyzed regional sales performance and revenue trends.
 
-
-
-## Files Included
-- Power BI Dashboard (.pbix)
-- Dataset (.csv)
-- Dashboard screenshot
+### 3. Process Improvement Analysis
+Tools: Excel  
+Identified operational inefficiencies and recommended improvements.
