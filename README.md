@@ -13,8 +13,9 @@ This project analyzes telecom customer churn patterns using Excel and Power BI.
 - Fiber optic customers show higher churn compared to DSL users
 - High monthly charge segments contribute the largest churn volume
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+<img width="1325" height="755" alt="image" src="https://github.com/user-attachments/assets/81976cf5-eeba-4b18-899e-75599e61b3df" />
+
+
 
 ## Files Included
 - Power BI Dashboard (.pbix)
